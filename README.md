@@ -1,5 +1,5 @@
 # Datasets for data visualisation
-list of reliable datasets for data visualisation exercices with students and what not. Feel free to contribute any datasets you find that are legit and reliable.
+List of reliable datasets for data visualisation exercices with students and what not. Feel free to contribute any datasets you find that are legit and reliable.
 
 Please keep it organized alphabetically.
 
@@ -7,3 +7,5 @@ Please keep it organized alphabetically.
  - Brussels open data: http://opendata.bruxelles.be/page/home/?flg=en
  - Europe open data: https://open-data.europa.eu/en/data/
  - Wallonia open data: http://data.digitalwallonia.be/dataset
+ - World
+  - Gaminder http://www.gapminder.org/data/
