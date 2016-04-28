@@ -9,3 +9,7 @@ List of reliable datasets for data visualisation exercices with students and wha
   - Gaminder http://www.gapminder.org/data/
  - Universe
   - NASA https://data.nasa.gov
+
+## Data Repositories
+This category collects dataset search engines and repos:
+ - Re3data : research data repositories from different academic disciplines _ http://service.re3data.org/browse/by-subject/
